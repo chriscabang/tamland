@@ -1,0 +1,3 @@
+dht11_pin=10
+server=localhost
+port=9980
